@@ -1,0 +1,56 @@
+.common{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.bigTitle{
+    height: 85px;
+    background-color: lavender;
+    color: rgb(10, 10, 9);
+    line-height: 100px;
+}
+
+nav{
+    padding: 4px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.mainbody{
+    background-color:aliceblue;
+    color:rgb(10, 10, 9)
+}
+
+.anchor{
+    background-color: aliceblue;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 25px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+
+ol{
+    margin-inline-start: auto;
+    list-style-position:inside;
+    text-align: center;
+    
+}
+
+ul{
+    list-style-position: inside;
+    list-style-type: square;
+    text-align: center;
+    line-height: 23px;
+    margin-top: 10px;
+    
+}
